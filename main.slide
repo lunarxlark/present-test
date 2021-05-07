@@ -1,20 +1,10 @@
 # This is test of cmd `present`
-this is subtitle line, isn't it?
-7 May 2021
-Tags: test, go
-Summary: this is summary line.
 
 Author lunarxlark
-example company Co.,ltd
-lunarxlark@gmail.com
-https://lunarxlark.dev/
-@lunarxlark
-
 
 ## first page
 
 i love markdown syntax. so useful.
-
 
 ### subsection
 
