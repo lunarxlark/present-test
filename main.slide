@@ -9,7 +9,6 @@ i love markdown syntax. so useful.
 ### subsection
 
 What this page look like?
-
 this section start with `###`. and repeat new line.
 
 ## second page?
@@ -25,7 +24,6 @@ func main() {
   fmt.Println("Hello, World!")
 }
 ```
-
 
 ## third page
 
