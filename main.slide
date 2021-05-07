@@ -1,0 +1,46 @@
+# This is test of cmd `present`
+this is subtitle line, isn't it?
+7 May 2021
+Tags: test, go
+Summary: this is summary line.
+
+Autho lunarxlark
+example company Co.,ltd
+lunarxlark@gmail.com
+https://lunarxlark.dev/
+@lunarxlark
+
+## first page
+
+i love markdown syntax. so useful.
+
+
+### subsection
+
+What this page look like?
+
+this section start with `###`. and repeat new line.
+
+## second page?
+
+i often use `code block`. so i wish code hightlight...pls
+
+```go:func
+package main
+
+import "fmt"
+
+func main() {
+  fmt.Println("Hello, World!")
+}
+```
+
+
+## third page
+
+present have 2 syntax.
+
+1. markdown syntax
+2. legacy syntax
+
+i love markdown syntax.
